@@ -64,6 +64,7 @@ public class SocialMediaController {
     }
 
     /*
+          -- comment  --
         * Handles user login
         * Successful login returns matching account
         * Failed login returns 401
